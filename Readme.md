@@ -13,3 +13,5 @@ Learners who complete this course will master the vocabulary, notation, concepts
 - The concept of instantaneous rate of change and tangent lines to a curve
 - Exponents, logarithms, and the natural log function.
 - Probability theory, including Bayes’ theorem.
+
+**The Course quizzes and Content belong to coursera whereas the solutions to all quizzes were answered by me**
